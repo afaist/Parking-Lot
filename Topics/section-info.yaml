@@ -19,3 +19,5 @@ content:
 - toString()
 - String basics
 - Data class
+- Properties accessors
+- Secondary constructor
